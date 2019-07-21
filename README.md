@@ -3,7 +3,7 @@
 
 This was a fun project indended to demosntrate the use of recurrent neural networks to generate text - in this case pokemon names. The basis of this is an assignment I had to complete as a requirememnt of the Course 'Intoduction to Deep Learning' by HSE on coursera.
 
-The recurrent is trained using a corpus of around 800 pokemon names(smaller than whT one would like to have).
+The recurrent is trained using a corpus of around 800 pokemon names(smaller dataset than one would like to have).
 THe network is trained to predict the most probable next charecter based on some starting charecter.
 
 
